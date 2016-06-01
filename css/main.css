@@ -19,16 +19,32 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.*/
-.header {
-  font-family: Lobster, sans-serif;
-  color: #09F;
-  background-color: #B2B109;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* research mechanics later */
 }
 
-.logo {
-
+body {
+  font-family: sans-serif;
 }
 
-.navbar {
+a {
+  color: #fff;
+  font-size: 1.1rem;
+  font-family: 'Lobster', sans-serif;
+  text-decoration: none;
+}
 
+a:not(:last-child) {
+    margin: 0 5px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 3%;
+  background: #444;
+  color: #fff;
 }
