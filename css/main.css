@@ -42,7 +42,7 @@ a:not(:last-child) {
 
 header {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-between; /* research mechanics later */
   align-items: center;
   padding: 5px 3%;
   background: #444;
