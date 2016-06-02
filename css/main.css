@@ -48,3 +48,14 @@ a:not(:last-child) {
   background: #444;
   color: #fff;
 }
+
+.footer {
+	color: #31363d;
+	font-size: 10px;
+	height: 70px;
+	line-height:70px;
+	padding-right:40px;
+	text-align: right;
+	text-transform: uppercase;
+	margin-bottom: 100px;
+}
