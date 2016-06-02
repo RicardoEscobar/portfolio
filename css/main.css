@@ -40,7 +40,7 @@ a:not(:last-child) {
     margin: 0 5px;
 }
 
-header {
+.header {
   display: flex;
   justify-content: space-between; /* research mechanics later */
   align-items: center;
