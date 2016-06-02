@@ -51,16 +51,11 @@ a:not(:last-child) {
 
 .footer {
   background-image: url('https://s3.amazonaws.com/codecademy-content/projects/bolt-network/diagmonds_@2X.png');
-
-	/*color: #31363d;
-	font-size: 10px;
-	height: 70px;
-	line-height:70px;
+  font-size: 0.5rem;
 	padding-right:40px;
-	text-align: right;
+	text-align: left;
 	text-transform: uppercase;
 	margin-bottom: 100px;
-  */
 }
 
 .footer ul {
