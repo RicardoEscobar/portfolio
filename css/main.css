@@ -60,3 +60,16 @@ a:not(:last-child) {
 .row {
 	margin-top: 30px;
 }
+
+.footer {
+  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/bolt-network/diagmonds_@2X.png');
+  font-size: 0.5rem;
+	padding-right:40px;
+	text-align: left;
+	text-transform: uppercase;
+	margin-bottom: 100px;
+}
+
+.footer ul {
+  list-style: none;
+}
