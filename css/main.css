@@ -51,6 +51,8 @@ a:not(:last-child) {
 
 .stream {
   text-align: center;
-  margin: 20px auto;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
   background-image: url('https://s3.amazonaws.com/codecademy-content/projects/bolt-network/diagmonds_@2X.png');
 }
