@@ -50,7 +50,8 @@ a:not(:last-child) {
 }
 
 .footer {
-	color: #31363d;
+  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/bolt-network/diagmonds_@2X.png');
+	/*color: #31363d;
 	font-size: 10px;
 	height: 70px;
 	line-height:70px;
@@ -58,4 +59,5 @@ a:not(:last-child) {
 	text-align: right;
 	text-transform: uppercase;
 	margin-bottom: 100px;
+  */
 }
