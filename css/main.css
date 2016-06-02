@@ -48,3 +48,8 @@ a:not(:last-child) {
   background: #444;
   color: #fff;
 }
+
+.stream {
+  text-align: center;
+  margin: 20px auto;
+}
