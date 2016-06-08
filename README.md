@@ -1,2 +1,2 @@
 # portfolio
-## Codecademy: HTML &amp; CSS Final Project (Portfolio website)
+Codecademy: HTML &amp; CSS Final Project (Portfolio website)
