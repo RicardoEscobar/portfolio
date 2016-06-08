@@ -31,9 +31,14 @@ body {
 
 a {
   color: #fff;
-  font-size: 1.1rem;
-  font-family: 'Lobster', sans-serif;
+  font-size: 1em;
+  font-family: sans-serif;
   text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ffa07a;
 }
 
 a:not(:last-child) {
@@ -47,6 +52,11 @@ a:not(:last-child) {
   padding: 5px 3%;
   background: #444;
   color: #fff;
+}
+
+.header a {
+  font-size: 1.5em;
+  font-family: 'Lobster', sans-serif;
 }
 
 .stream {
