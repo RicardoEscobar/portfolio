@@ -67,6 +67,10 @@ a:not(:last-child) {
   background-image: url('https://s3.amazonaws.com/codecademy-content/projects/bolt-network/diagmonds_@2X.png');
 }
 
+.portfolio {
+  padding-bottom: 30px;
+}
+
 .row {
 	margin-top: 30px;
 }
