@@ -46,9 +46,9 @@ I have two main branches for this project:
 
 - __development__. This branch contains the day to day work and tests on the website. From this branch, I do branchout to other shorter branches to work on different features of the project. If the change is small enough, I may use the __development__ branch to commit those changes. This branch merges with __master__ once it's work is completed and stable for production.
 
-For __development__ subbranches, I use this naming convention: `devNameOfFeature`
+For __development__ subbranches, I use this naming convention: `nameOfFeature`
 
-Where `devNameOfFeature` may be `devFooter`, `devPortfolio`, `devColoring`, etc.
+Where `nameOfFeature` may be `footerSection`, `portfolioUpdate`, `coloringHeader`, etc.
 
 After the work on the __development__ subbranches is done, I do merge those changes back into __development__. After checking for merge conflicts, or any issues, I do merge __development__ into __master__.
 
